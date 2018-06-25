@@ -1,0 +1,2 @@
+date           time           particulars          CRAmount         DRAmount          Balance
+25-JUN-18     21:38:54        during creation      10000.0              0.0               10000.0
